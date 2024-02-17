@@ -1,0 +1,14 @@
+.order-box {
+    border: 1px solid #cccccc;
+    padding: 40px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+@media screen and (max-width: 700px) {
+    .order-box {
+        font-size: 0.7rem;
+        padding: 0px;
+    }
+}
